@@ -9,7 +9,8 @@ I'm a Robotics Engineer specializing in autonomous systems, embedded development
 - 🔭 Currently working on cutting-edge robotics integration and simulation setups.
 - 🌱 Pursuing MSc in Autonomous Systems at the University of Applied Sciences Bonn-Rhein-Sieg.
 - 💡 Passionate about leveraging technology to create innovative and efficient robotic solutions.
-- ## 📫 Connect with Me
+
+## 📫 Connect with Me
 <p align="center">
   <a href="https://linkedin.com/in/ibrahimmemon18" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -25,10 +26,11 @@ I'm a Robotics Engineer specializing in autonomous systems, embedded development
   </a>
 </p>
 
-
 ## 🔧 Skills & Technologies
+
+[![My Robotics Skills](https://skillicons.dev/icons?i=cpp,python,ros,git,matlab,arduino,raspberrypi,opencv)](https://skillicons.dev)
 <p align="center">
-  <!-- Existing badges -->
+  <!-- Shields.io badges -->
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/ROS-22314F?style=for-the-badge&logo=ros&logoColor=white" alt="ROS/ROS2" />
@@ -37,7 +39,7 @@ I'm a Robotics Engineer specializing in autonomous systems, embedded development
   <img src="https://img.shields.io/badge/EagleCAD-00539F?style=for-the-badge&logo=autodesk&logoColor=white" alt="EagleCAD" />
   <img src="https://img.shields.io/badge/Robotics%20Engineer-2C3E50?style=for-the-badge&logo=android&logoColor=white" alt="Robotics Engineer" />
   
-  <!-- Additional robotics engineering badges -->
+  <!-- Additional robotics engineering shields -->
   <img src="https://img.shields.io/badge/Embedded%20Systems-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Embedded Systems" />
   <img src="https://img.shields.io/badge/Firmware-333333?style=for-the-badge&logo=code&logoColor=white" alt="Firmware Development" />
   <img src="https://img.shields.io/badge/Robotic%20Simulation-FFC107?style=for-the-badge&logo=robot&logoColor=white" alt="Robotic Simulation" />
@@ -53,3 +55,5 @@ I'm a Robotics Engineer specializing in autonomous systems, embedded development
 - **MSc in Autonomous Systems** – University of Applied Sciences Bonn-Rhein-Sieg (In progress)
 - **B.Tech in Mechatronics Engineering** – Ganpat University
 
+## 📄 Resume
+[![Download CV](https://img.shields.io/badge/Download%20CV-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](Mohammad_memon_Resume_2025.pdf)
