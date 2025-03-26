@@ -18,8 +18,6 @@ I'm a Robotics Engineer specializing in autonomous systems, embedded development
   <a href="mailto:immemon1811@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://github.com/ibrahimmemonn" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="https://ibrahim-1811.github.io/" target="_blank">
     <img src="https://img.shields.io/badge/Website-ibrahim--1811.github.io-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
