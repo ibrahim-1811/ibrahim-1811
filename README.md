@@ -76,7 +76,7 @@
 
 ## 📄 Resume
 
-[![Download Resume](https://img.shields.io/badge/Download%20CV-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](Mohammad_memon_Resume_2025.pdf)
+[![Download Resume](https://img.shields.io/badge/Download%20CV-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](cv_Memon.pdf)
 
 ---
 
